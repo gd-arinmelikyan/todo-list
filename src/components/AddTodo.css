@@ -46,7 +46,8 @@ button:active {
     border-color: #000;
 }
 
-.disabledBtn {
-  background: #ccc;
-  border-color: #ccc;
+.error-message {
+    color: red;
+    font-size: 12px;
+    margin: 0.5rem 0;
 }
